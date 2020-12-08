@@ -1,1 +1,3 @@
 # kafka-play
+
+vagrant up
